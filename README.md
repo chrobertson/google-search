@@ -1,0 +1,3 @@
+This is my attempt to recreate the Google search results page. I intend to build on my knowledge of html structure and css stylings from the google-homepage project. I expect that this project will go faster and that my code will be cleaner in this project. I also expect that it might be more difficult than I anticipate.
+
+Link to the project assignment from the Odin Project: https://www.theodinproject.com/lessons/html-css
