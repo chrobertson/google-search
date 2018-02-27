@@ -60,3 +60,33 @@ li {
 .apps {
     width: 30px;
 }
+
+.nav {
+    position: absolute;
+    left: 150px;
+    width: 636px;
+    height: 58px;
+    top: 65px;
+}
+
+.bot {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: rgb(119, 119, 119);
+    padding: 0px 8px 0px 6px;
+    margin: 0px 8px 0px 6px;
+}
+
+#all {
+    color: rgb(26, 115, 232);
+    font-weight: 700;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(26, 115, 232);
+    padding: 28px 15.5px 13px 15.5px;
+    margin: 0;
+}
+
+#settings {
+    margin-left: 100px;
+}
