@@ -1,0 +1,50 @@
+header {
+    width: 100%;
+    background-color: rgb(250, 250, 250);
+    height: 150px;
+    display: block;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(235, 235, 235);
+    border-bottom-style: solid;
+}
+
+.toptop {
+    width: 100%;
+    display: block;
+}
+
+.lefttop {
+    display: block;
+    float: left;
+    margin: 10px;
+}
+
+.righttop {
+    display: block;
+    float: right;
+}
+
+li {
+    display: inline-block;
+}
+
+.logo {
+    height: 42.5px;
+    width: 131px;
+    margin: 12.5px 0px;
+}
+
+.bar {
+}
+
+.voice {
+    width: 18px;
+}
+
+.glass {
+    width: 24px;
+}
+
+.apps {
+    width: 30px;
+}
