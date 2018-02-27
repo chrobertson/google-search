@@ -1,7 +1,7 @@
 header {
     width: 100%;
     background-color: rgb(250, 250, 250);
-    height: 150px;
+    height: 122px;
     display: block;
     border-bottom-width: 1px;
     border-bottom-color: rgb(235, 235, 235);
@@ -29,15 +29,17 @@ li {
 }
 
 .logo {
-    height: 42.5px;
+    height: 42px;
     width: 131px;
-    margin: 12.5px 0px;
+    margin: 6.5px 0px;
 }
 
 .bar {
+    position: absolute;
     height: 40px;
     width: 632px;
-    margin: 9px 8px;
+    top: 19px;
+    left: 150px;
 }
 
 .voice {
@@ -49,7 +51,10 @@ li {
 }
 
 .glass {
-    width: 24px;
+    width: 18px;
+    position: absolute;
+    top: 32px;
+    left: 745px;
 }
 
 .apps {
